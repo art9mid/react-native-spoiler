@@ -1,0 +1,12 @@
+{
+  "uiViewClassName": "NitroSpoiler",
+  "supportsRawText": false,
+  "bubblingEventTypes": {},
+  "directEventTypes": {},
+  "validAttributes": {
+    "revealed": true,
+    "coverColor": true,
+    "tintColor": true,
+    "hybridRef": true
+  }
+}
