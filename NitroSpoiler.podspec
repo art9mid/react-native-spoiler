@@ -22,6 +22,8 @@ Pod::Spec.new do |s|
     "cpp/**/*.{hpp,cpp}",
   ]
 
+  s.resource_bundles = { 'NitroSpoiler' => ['ios/Assets.xcassets'] }
+
   load 'nitrogen/generated/ios/NitroSpoiler+autolinking.rb'
   add_nitrogen_files(s)
 

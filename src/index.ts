@@ -1,1 +1,5 @@
-export { NitroSpoiler } from './NitroSpoiler'
+export { NitroSpoiler } from './components/nitro-spoiler'
+export { Spoiler } from './components/spoiler'
+export type { SpoilerProps } from './components/spoiler'
+export { SpoilerOverlay } from './components/spoiler-overlay'
+export type { SpoilerOverlayProps } from './components/spoiler-overlay'

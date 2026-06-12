@@ -4,9 +4,9 @@
   "bubblingEventTypes": {},
   "directEventTypes": {},
   "validAttributes": {
-    "revealed": true,
-    "coverColor": true,
-    "tintColor": true,
+    "isOn": true,
+    "color": true,
+    "managesContentAlpha": true,
     "hybridRef": true
   }
 }
