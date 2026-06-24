@@ -13,6 +13,8 @@ Built with [Nitro Modules](https://nitro.margelo.com) for fully native rendering
 No work happens on the JS thread while the effect runs. Gestures (tap reveal,
 finger-play) are handled natively too.
 
+https://github.com/user-attachments/assets/c7bbac6f-beb8-437a-805c-559c6d963bf2
+
 ## Usage
 
 ```tsx
